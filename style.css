@@ -1,0 +1,8 @@
+.nav-pills .nav-link.active {
+  background-color: rgb(128, 0, 32) !important;
+  border-color: rgb(128, 0, 32) !important;
+}
+
+.custom-margin {
+  margin-top: 100px; /* Tambahan jarak lebih jauh */
+}
